@@ -6,7 +6,7 @@ PHONEKEY是一種手機端的應用程式，讓你能夠用手機當作鑰匙開
 
 ## 哪些裝置支援PHONEKEY
 
-您可以安裝PHONEKEY在iOS\(iPhone 4s+\)和Android 4.4+手機作業系統上。部分鎖具需要Android 5.0以上的手機作業系統才能正常操作。
+您可以在iOS\(iPhone 4s+\)和Android 5.0+的智慧手機系統安裝PHONEKEY。
 
 ## 如何運作
 
