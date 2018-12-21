@@ -1,50 +1,41 @@
-# 鎖具啟用
+# 啟用鎖具流程
 
-PHONEKEY相關鎖具產品需要與設定保證卡進行配對，日後可用經過配對的設定保證卡進行重設主控密碼。
+啟用PHONEKEY鎖具產品時需要與設定保證卡進行配對，同時設定裝置密碼，日後忘記密碼時可用NFC手機讀取已配對的保證卡來重設密碼。
 
 ### 1.配對鎖具
 
-配對新鎖具會搜尋周遭可連線且未建立鑰匙的鎖具，圖示呈現灰色。GRG是車庫縮寫，各種物件都以3個英文字做為縮寫以辨識產品種類，如GRG代表車庫主機等等。
+在應用程式首頁右上方，按「+」新增裝置，手機會掃描周遭可連線且未建立鑰匙的鎖具，可按住螢幕下拉更新掃描內容。清單顯示代號的前3碼為產品種類，如GRG是車庫鎖、CAB是櫃鎖等。
 
-#### 點選尚未啟用的鎖具圖示
+點選代號後，手機與鎖具進行連線，連線成功後鎖具會發出提示音\(短嗶3聲\)並進入**新增裝置**頁面。
 
-![](https://userstartw.files.wordpress.com/2016/10/2016_10_07_09_06_17-mp4-still016.jpg)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-14-44-52-375_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-10-37-31-514_com.userstar.phonekey.png)
 
 ### 2. 自動偵測未啟用
 
 #### 配對設定保證卡
 
-鎖具只能配對一張保證卡進行啟用，配對後該鎖具能使用該卡進行主控密碼更新。配對的方式有三種，
+鎖具啟用時會與該設定保證卡配對綁定，配對的方式有兩種：
 
-1. 您可以用手機QR CDOE APP掃描保證卡的行動條碼，
-2. 使用NFC手機讀取設定保證卡。
-3. 手動輸入保證卡上的卡號和啟用碼
+1. 使用相機掃描設定保證卡的行動條碼\(QR Code\)。
+2. 使用NFC讀取設定保證卡。
 
-![](https://userstartw.files.wordpress.com/2016/01/2016_01_11_15_19_54-mp4-still002.jpg)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-22-34-531_com.userstar.phonekey.png)
 
 #### 3.1 行動條碼掃描
 
-對準行動條碼後即能自動讀取
+相機鏡頭對準行動條碼後即能自動讀取。
 
 #### 3.2 使用NFC讀取設定保證卡
 
-將手機NFC功能打開後，將手機NFC天線位置緊貼設定保證卡進行讀取。
+開啟手機NFC功能，將手機NFC天線位置緊貼設定保證卡進行讀取。
 
-![](https://userstartw.files.wordpress.com/2016/01/2016_01_18_09_10_48-mp4-still002.jpg)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-22-47-532_com.userstar.phonekey.png)
 
-### 4. 設定主控密碼
+### 4. 設定裝置密碼
 
-鎖具主控密碼可允許使用者對鎖進行產生鑰匙以及各項設定。
+鎖具裝置密碼允許使用者對鎖具建立鑰匙以及修改各項設定。
 
-請避免使用0000-0000-0000-0000等簡單易猜的密碼，以防止鎖具被盜用。自動密碼可以自動產生高強度亂數密碼，產生完後請務必列印或手抄該密碼於隨身皮夾，或在雲端文件如iCloud或Google Drive裡。
+**藍牙鎖或手機並未儲存裝置密碼，請務必妥善保存密碼與設定保證卡。**請避免使用0000-0000-0000-0000等簡單易猜的密碼，以防止鎖具被盜用。若使用自動產生亂數密碼，可將頁面截圖、手抄該密碼於隨身皮夾或儲存於雲端文件如iCloud或Google Drive。
 
-![](https://userstartw.files.wordpress.com/2016/01/2016_01_18_08_56_09-mp4-still001.jpg)
-
-### 5. 記憶主控密碼
-
-您可選擇是否將主控密碼記憶在此手機，記憶後使用鎖具管理設定時此手機不需再輸入主控密碼。日後您可以在鎖具設定頁面修改這個選項。
-
-**記憶後若本手機被他人取得，他人即擁有權力變更鎖具設定，建議您設定手機螢幕解鎖。**
-
-![](https://userstartw.files.wordpress.com/2016/01/2016_01_18_09_07_18-mp4-still001.jpg)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-23-02-396_com.userstar.phonekey.png)　![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-13-06-15-731_com.userstar.phonekey.png)
 

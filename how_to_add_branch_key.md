@@ -1,31 +1,23 @@
-# 如何開通分享鑰匙
+# 開通分享鑰匙
 
-已經啟用過的鎖具，且使用者註冊並登入PHONEKEY帳號，可用主控密碼開通分享鑰匙。
+鎖具完成啟用與建立離線鑰匙後，擁有管理者鑰匙限權的使用者，能在APP登入PHONEKEY帳號、手機連網且與鎖具連線的狀態下，開通「下載型鑰匙 \(最多十把\)」或「線上型鑰匙」。
 
-任何人都可以使用主控密碼，在APP登入自己的PHONEKEY帳號的狀態下，開通指定的分享鑰匙編號位置到自己的帳號底下。
+* 若管理者A已經開通某一把分享鑰匙，管理者B可先關閉該鑰匙再重新開通，該鑰匙的分享權利將歸給管理者B。
+* 若管理者關閉了某一把分享鑰匙，此動作將清除該鑰匙，使該鑰匙無法使用。
 
-* 可設定使用次數與使用期限
+### 1. 進入裝置設定
 
-* 開通編號位置需要手機與鎖具、網路連線，日後分享時則不需要連線鎖具
+從裝置列表尋找要設定的鎖具，向左滑動並進入裝置設定\(齒輪圖示\)。
 
-
-### 1. 啟動鎖具管理
-
-點選已配對鎖具進入個別資訊頁面\(操作介面右上角齒輪圖示\)，點選開通分享鑰匙
-
-![](https://userstartw.files.wordpress.com/2016/10/2016_10_07_09_06_17-mp4-still017.jpg)
-
-![](https://userstartw.files.wordpress.com/2016/10/2016_10_07_09_06_17-mp4-still018.jpg)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-14-04-22-395_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-14-09-09-676_com.userstar.phonekey.png)
 
 ### 2. 開通分享鑰匙
 
-需要與鎖具連線，並登入帳號保持網路連線，以便鑰匙同步上傳到網路上。
+在裝置設定裡，選擇開通**下載型鑰匙**或**線上型鑰匙**。
 
-1. 一個位置僅能給一個帳號使用
+* 一把鑰匙僅能給一個帳號使用。
+* 未開通的鑰匙不會顯示在分享鑰匙列表。
+* 可修改名稱做為備註。
 
-2. 未開啟的位置不會顯示在雲端鑰匙分享管理頁面
-
-3. 可修改名稱作為備註
-
-![](https://userstartw.files.wordpress.com/2016/10/2016_10_07_09_06_17-mp4-still019.jpg)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-17-25-45-699_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-17-26-06-920_com.userstar.phonekey.png)
 
