@@ -3,7 +3,7 @@
 * [關於本操作手冊](README.md)
   * [著作權聲明](copy_right_statement.md)
   * [如何安裝PHONEKEY](how_to_install_phonekey_app.md)
-  * [我們怎麼保護您的資料安全？](how_we_ensure_the_security_of_your_data.md)
+  * [我們怎麼保護您的資料安全](how_we_ensure_the_security_of_your_data.md)
 * [介面概觀](chapter1.md)
   * [登入您的帳號](signing_into_your_account.md)
   * [鑰匙屬性](key_icons.md)
