@@ -17,7 +17,7 @@
 
 ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-42-22-789_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-42-27-594_com.userstar.phonekey.png)
 
-輸入**帳號**，也能點選通訊錄圖示來選取帳號。
+輸入**帳號**，或者點選通訊錄圖示來選取帳號。
 
 > 可先在APP首頁的**選單**&gt;**通訊錄**，新增被分享者的電子郵件與名稱，分享鑰匙時即能從通訊錄直接選取。
 
