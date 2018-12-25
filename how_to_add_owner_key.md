@@ -12,7 +12,7 @@
 
 ### 2. 選擇鑰匙產生方式
 
-選擇建立鑰匙。
+選擇**建立鑰匙**。
 
 ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-23-24-129_com.userstar.phonekey.png)
 

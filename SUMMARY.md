@@ -15,13 +15,9 @@
   * [開通分享鑰匙](how_to_add_branch_key.md)
   * [管理已開通的分享鑰匙](how_to_share_branch_key.md)
   * [下載分享鑰匙](如何下載.md)
-  * [新增群組](how_to_add_group.md)
   * [開關鎖歷史記錄](開關鎖歷史記錄.md)
   * [變更手機中鎖具顯示名稱](如何變更.md)
   * [變更鎖具中鑰匙持有人名稱](變更鎖具中鑰匙持有人名稱.md)
   * [刪除手機內的鑰匙](howto_delete_a_key_md.md)
   * [刪除鎖具內的鑰匙](how_to_delete_keys_in_a_lock.md)
-* [專用功能](專用功能.md)
-  * [藍牙車庫主機USGRG01](藍牙車庫主機.md)
-  * [櫥櫃鎖THU01](櫥櫃鎖.md)
 

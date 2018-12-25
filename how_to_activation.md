@@ -37,5 +37,5 @@
 
 **藍牙鎖或手機並未儲存裝置密碼，請務必妥善保存密碼與設定保證卡。**請避免使用0000-0000-0000-0000等簡單易猜的密碼，以防止鎖具被盜用。若使用自動產生亂數密碼，可將頁面截圖、手抄該密碼於隨身皮夾或儲存於雲端文件如iCloud或Google Drive。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-23-02-396_com.userstar.phonekey.png)　![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-13-06-15-731_com.userstar.phonekey.png)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-23-02-396_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-13-06-15-731_com.userstar.phonekey.png)
 

@@ -13,11 +13,11 @@
 
 ### 2. 開通分享鑰匙
 
-在裝置設定裡，選擇開通**下載型鑰匙**或**線上型鑰匙**。
+選擇開通**下載型鑰匙**或**線上型鑰匙**。
 
 * 一把鑰匙僅能給一個帳號使用。
 * 未開通的鑰匙不會顯示在分享鑰匙列表。
 * 可修改名稱做為備註。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-17-25-45-699_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-17-26-06-920_com.userstar.phonekey.png)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-26-14-083_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-17-26-06-920_com.userstar.phonekey.png)
 

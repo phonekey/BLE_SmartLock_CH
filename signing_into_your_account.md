@@ -14,5 +14,5 @@ PHONEKEY提供完全離線的開關鎖操作，您可使用**裝置密碼**在�
 
 在首頁點選左上角的選單 -&gt;點選登入 -&gt;點選註冊，按照步驟輸入資料後，再到註冊信箱點選啟用連結。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-13-18-00-462_com.userstar.phonekey.png)　![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-13-17-49-005_com.userstar.phonekey.png)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-13-18-00-462_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-13-17-49-005_com.userstar.phonekey.png)
 

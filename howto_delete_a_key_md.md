@@ -1,12 +1,8 @@
-# 如何刪除手機內的鑰匙
-### 1.點選手機內鎖具圖示後進入個別資訊頁面。再點選刪除鎖具即可。
-**刪除鎖具代表刪除手機內的鑰匙，不代表刪除鎖具內的鑰匙**
+# 刪除手機內的鑰匙
 
-![](https://userstartw.files.wordpress.com/2016/01/2016_01_18_09_07_18-mp4-still004.jpg)
-![](https://userstartw.files.wordpress.com/2016/01/2016_01_18_09_07_18-mp4-still005.jpg)
+在鎖具設定選取**刪除鑰匙**。
 
-刪除鎖具時若未與鎖具連線，則僅只在手機裡刪除，並未將鎖具裡的鑰匙刪除
+> 僅刪除手機中的鑰匙，裝置中仍存有相關鑰匙。請定期清理裝置無用鑰匙，避免鑰匙剩餘空間不足。
 
-![](https://userstartw.files.wordpress.com/2016/01/2016_01_18_09_07_18-mp4-still006.jpg)
-
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-14-08-32-050_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-14-03-11-389_com.userstar.phonekey.png)
 

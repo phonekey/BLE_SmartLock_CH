@@ -1,16 +1,7 @@
-# 如何刪除鎖具內的鑰匙
+# 刪除鎖具內的鑰匙
 
-在手機上刪除鑰匙不會同時刪除鎖具內的鑰匙，因此需要使用鎖具鑰匙管理才能清除不必要的鑰匙。
+具有**管理者**鑰匙的使用者，在鎖具設定選取**管理裝置內的鑰匙**，該裝置內的鑰匙會依序列出。  
+選取鑰匙向左滑動，點選**刪除**圖示以刪除鎖具內的鑰匙。
 
-### 1. 進入鎖具設定畫面，點選鎖具內所有鑰匙管理
-
-![](https://userstartw.files.wordpress.com/2016/10/2016_10_07_09_06_17-mp4-still018.jpg)
-
-### 2. 選擇要編輯的鑰匙
-
-點選完後進行刪除所選即可
-
-#### 刪除鑰匙需要連線網路，並登入PHONEKEY帳號，以通知被刪除鑰匙的使用者。
-
-
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-14-09-09-676_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-15-54-04-911_com.userstar.phonekey.png)
 
