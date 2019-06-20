@@ -20,4 +20,7 @@
   * [變更鎖具中鑰匙持有人名稱](變更鎖具中鑰匙持有人名稱.md)
   * [刪除手機內的鑰匙](howto_delete_a_key_md.md)
   * [刪除鎖具內的鑰匙](how_to_delete_keys_in_a_lock.md)
+* [專用功能](how_to_special.md)
+  * [藍牙車庫主機](garage_opener.md)
+  * [門鎖](door_lock.md)
 
