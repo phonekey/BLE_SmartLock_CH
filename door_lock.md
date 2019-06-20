@@ -18,5 +18,5 @@
 
 最多可設定30張卡片。
 
-![](https://userstartw.files.wordpress.com/2019/06/screenshot_2019-06-20-16-46-57-923_com.userstar.phonekey-1.png)![](https://userstartw.files.wordpress.com/2019/06/screenshot_2019-06-20-16-47-01-840_com.userstar.phonekey-1.png)
+![](https://userstartw.files.wordpress.com/2019/06/screenshot_2019-06-20-16-46-57-923_com.userstar.phonekey-1.png)  ![](https://userstartw.files.wordpress.com/2019/06/screenshot_2019-06-20-16-47-01-840_com.userstar.phonekey-1.png)
 
