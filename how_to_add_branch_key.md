@@ -9,7 +9,7 @@
 
 從裝置列表尋找要設定的鎖具，向左滑動並進入裝置設定\(齒輪圖示\)。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-14-04-22-395_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-14-09-09-676_com.userstar.phonekey.png)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-14-04-22-395_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2019/06/screenshot_2019-06-21-09-59-14-375_com.userstar.phonekey.png)
 
 ### 2. 開通分享鑰匙
 

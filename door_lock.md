@@ -4,7 +4,7 @@
 
 此操作需具有管理者鑰匙權限。
 
-![](https://userstartw.files.wordpress.com/2019/06/screenshot_2019-06-20-16-42-02-189_com.userstar.phonekey.png)
+![](https://userstartw.files.wordpress.com/2019/06/screenshot_2019-06-21-09-59-14-375_com.userstar.phonekey.png)
 
 #### 密碼
 

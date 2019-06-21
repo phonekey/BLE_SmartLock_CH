@@ -6,7 +6,7 @@
 
 一、登入帳號狀態，進入各別的鎖具設定，選擇**鑰匙列表**，顯示該鎖具已設定的分享鑰匙。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-14-09-09-676_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-24-18-659_com.userstar.phonekey.png)
+![](https://userstartw.files.wordpress.com/2019/06/screenshot_2019-06-21-09-59-14-375_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-24-18-659_com.userstar.phonekey.png)
 
 二、登入帳號狀態，從首頁左上方的**選單**，選擇**分享鑰匙列表**，顯示包含其他鎖具的所有分享鑰匙。
 
