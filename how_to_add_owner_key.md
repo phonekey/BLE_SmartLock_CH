@@ -32,7 +32,7 @@
 
 鑰匙屬性預設為**一般使用者**，可調整為**管理者**。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-23-51-007_com.userstar.phonekey.png)![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-23-56-408_com.userstar.phonekey.png)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-23-51-007_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-23-56-408_com.userstar.phonekey.png)
 
 ### 6. 設定使用者名稱與裝置名稱
 
