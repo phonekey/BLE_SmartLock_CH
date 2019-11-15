@@ -4,5 +4,5 @@
 
 選取鑰匙向左滑動，點選**刪除**圖示以刪除鎖具內的鑰匙。
 
-![](https://userstartw.files.wordpress.com/2019/06/screenshot_2019-06-21-09-59-14-375_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-15-54-04-911_com.userstar.phonekey.png)
+![](https://userstartw.files.wordpress.com/2019/06/screenshot_2019-06-21-09-59-14-375_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-15-54-04-911_com.userstar.phonekey.png)
 

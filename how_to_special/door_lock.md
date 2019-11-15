@@ -6,13 +6,13 @@
 
 ![](https://userstartw.files.wordpress.com/2019/06/screenshot_2019-06-21-09-59-14-375_com.userstar.phonekey.png)
 
-#### 密碼
+## 密碼
 
 密碼長度應為6碼且為數字，最多可設定10組密碼。
 
 可從此頁面新增密碼、管理密碼或刪除所有密碼。
 
-#### 卡片
+## 卡片
 
 請使用 MIFARE 感應卡片 \(ISO14443A/ 13.56 MHz，例如悠遊卡\) 進行設定，最多可設定30張卡片。
 

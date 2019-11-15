@@ -9,7 +9,7 @@
 您可直接輸入舊裝置密碼，或點選「忘記密碼」以NFC手機讀取原配對的設定保證卡。  
 如iPhone手機或沒有NFC功能的Android手機，**僅能使用舊裝置密碼進行變更**。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-15-31-49-599_com.userstar.phonekey.png)  ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-22-47-532_com.userstar.phonekey.png)
+![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-15-31-49-599_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-22-47-532_com.userstar.phonekey.png)
 
 ## 3.  **輸入新裝置密碼**
 
