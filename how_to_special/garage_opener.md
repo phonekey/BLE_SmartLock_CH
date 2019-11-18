@@ -6,5 +6,5 @@
 
 此操作需具有管理者鑰匙權限。
 
-![](https://userstartw.files.wordpress.com/2019/06/screenshot_2019-06-21-09-59-14-375_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2019/06/screenshot_2019-06-21-09-59-27-188_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2018-12-21-14-09-09-676_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2019-06-21-09-59-27-188_com.userstar.phonekey.png)
 

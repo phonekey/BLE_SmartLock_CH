@@ -6,7 +6,7 @@
 
 一、登入帳號狀態，進入各別的鎖具設定，選擇**鑰匙列表**，顯示該鎖具已開通的分享鑰匙。
 
-![](https://userstartw.files.wordpress.com/2019/06/screenshot_2019-06-21-09-59-14-375_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-24-18-659_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2018-12-21-14-09-09-676_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2018-12-25-11-24-18-659_com.userstar.phonekey.png)
 
 二、登入帳號狀態，從首頁左上方的**選單**，選擇**分享鑰匙列表**，顯示所有鎖具已開通的分享鑰匙。
 
@@ -15,7 +15,7 @@
 在**鑰匙列表**或**分享鑰匙列表**設定鑰匙權限：  
 **下載型鑰匙**\(離線使用\)可**指定帳號**或**驗證碼**、**線上型鑰匙**\(連網使用\)只能**指定帳號**。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-42-22-789_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-42-27-594_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2018-12-25-11-42-22-789_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2018-12-25-11-42-27-594_com.userstar.phonekey.png)
 
 輸入**分享帳號**，或點選通訊錄圖示來選取該帳號。
 
@@ -29,7 +29,7 @@
 1. 起始日期、結束日期，與可用開鎖次數為「且\(AND\)」的邏輯，分享期間內用完開鎖次數則會失效。
 2. 驗證碼為伺服器自動產生，無法由使用者變更。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-13-34-44-309_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-48-55-283_com.userstar.phonekey-1.png)
+![](../.gitbook/assets/screenshot_2018-12-25-13-34-44-309_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2018-12-25-11-48-55-283_com.userstar.phonekey.png)
 
 ## 3.修改分享設定
 
@@ -44,5 +44,5 @@
 > 重新設定後，新的使用者下載鑰匙，將取代舊的使用者。  
 > 如果想要立即刪除舊的使用者，請與鎖具連線關閉鑰匙。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-51-23-151_com.userstar.phonekey-1.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-11-26-14-083_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2018-12-25-11-51-23-151_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2018-12-21-17-25-45-699_com.userstar.phonekey.png)
 

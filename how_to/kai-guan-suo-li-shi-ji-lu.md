@@ -5,7 +5,7 @@
 
 * 線上型鑰匙歷史記錄，僅能由原開通鑰匙的帳號讀取。
 
-![](https://userstartw.files.wordpress.com/2019/06/screenshot_2019-06-21-09-59-14-375_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2018-12-21-14-09-09-676_com.userstar.phonekey.png)
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-15-13-46-145_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-25-15-14-38-511_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2018-12-25-15-13-46-145_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2018-12-25-15-14-38-511_com.userstar.phonekey.png)
 
