@@ -8,31 +8,31 @@
 
 選取要配對的代號與鎖具連線，連線成功後鎖具發出提示音\(短嗶3聲\)。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-14-44-52-375_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-10-37-31-514_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2018-12-20-14-44-52-375_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2018-12-21-10-37-31-514_com.userstar.phonekey.png)
 
 ## 2. 選擇鑰匙產生方式
 
 選擇**建立鑰匙**。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-23-24-129_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2018-12-20-17-23-24-129_com.userstar.phonekey.png)
 
 ## 3. 輸入裝置密碼
 
 **裝置密碼**輸入錯誤三次以上，將暫停此功能15分鐘。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-10-56-50-158_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2018-12-21-10-56-50-158_com.userstar.phonekey.png)
 
 ## 4. 忘記密碼
 
 忘記密碼可以使用設定保證卡重設密碼。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-22-47-532_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2018-12-20-17-22-47-532_com.userstar.phonekey.png)
 
 ## 5. 設定鑰匙屬性
 
 鑰匙屬性預設為**一般使用者**，可調整為**管理者**。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-23-51-007_com.userstar.phonekey.png) ![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-20-17-23-56-408_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2018-12-20-17-23-51-007_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2018-12-20-17-23-56-408_com.userstar.phonekey.png)
 
 ## 6. 設定使用者名稱與裝置名稱
 
@@ -40,7 +40,7 @@
 
 裝置名稱預設為鎖具類別代碼，建議修改為簡單易記的名稱。
 
-![](https://userstartw.files.wordpress.com/2018/12/Screenshot_2018-12-21-16-03-45-666_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2018-12-21-16-03-45-666_com.userstar.phonekey.png)
 
 ## 7. 離線鑰匙建立完成，回到裝置列表
 
