@@ -16,7 +16,7 @@
 
 ### 2.1 掃描二維條碼
 
-相機鏡頭對準二維條碼後即能自動讀取。
+手機相機對準二維條碼後即能自動讀取。
 
 ![](../.gitbook/assets/screenshot_2018-12-20-17-22-34-531_com.userstar.phonekey.png)
 
