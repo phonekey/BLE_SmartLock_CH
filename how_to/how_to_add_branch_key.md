@@ -18,7 +18,7 @@
 
 * 每把下載型鑰匙僅能給一個帳號使用。
 * 點選鑰匙可修改該鑰匙名稱。
-* 未開通的下載型鑰匙不會顯示在分享鑰匙列表。
+* 已開通的下載型鑰匙才會顯示在分享鑰匙列表。
 
 ![](../.gitbook/assets/screenshot_2018-12-21-17-25-45-699_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2018-12-21-17-26-06-920_com.userstar.phonekey.png)
 
