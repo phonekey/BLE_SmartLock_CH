@@ -6,7 +6,8 @@
 
 ## 2. 選擇變更方式 <a id="choose-how-to-change"></a>
 
-您可直接輸入舊裝置密碼，或點選「忘記密碼」以NFC手機讀取原配對的保證卡。  
+您可直接輸入舊裝置密碼，或點選「忘記密碼」以NFC手機讀取原配對的保證卡。
+
 如iPhone手機或沒有NFC功能的Android手機，**僅能使用舊裝置密碼進行變更**。
 
 ![](../.gitbook/assets/screenshot_2018-12-21-15-31-49-599_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2018-12-20-17-22-47-532_com.userstar.phonekey.png)
