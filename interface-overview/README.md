@@ -1,6 +1,6 @@
 # 介面概觀
 
-## 首頁
+## 首頁 <a id="main-page"></a>
 
 啟動應用程式進入首頁，首頁上方由左至右分別為：選單、裝置列表、新增裝置、排序。
 
@@ -14,7 +14,7 @@
 
 ![](../.gitbook/assets/screenshot_2018-12-20-14-44-52-375_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2018-12-21-14-04-22-395_com.userstar.phonekey.png)
 
-## 選單
+## 選單 <a id="menu"></a>
 
 在首頁點選左上角的選單，有登入視窗。
 
