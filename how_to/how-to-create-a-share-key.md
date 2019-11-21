@@ -6,13 +6,13 @@
 * 若管理者關閉了某一把下載型鑰匙，該鑰匙將被清除而無法使用。
 * 若管理者將線上型鑰匙的狀態由啟用改為關閉，所有已設定的線上型鑰匙將被清除。
 
-## 1. 進入裝置設定
+## 1. 進入裝置設定 <a id="enter-setting-of-the-lock"></a>
 
 從裝置列表尋找要設定的鎖具，向左滑動並進入裝置設定\(齒輪圖示\)。
 
 ![](../.gitbook/assets/screenshot_2018-12-21-14-04-22-395_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2018-12-21-14-09-09-676_com.userstar.phonekey.png)
 
-## 2. 開通分享鑰匙
+## 2. 開通分享鑰匙 <a id="enable-share-key"></a>
 
 選擇開通**下載型鑰匙**\(離線使用\)或**線上型鑰匙**\(連網使用\)。
 
