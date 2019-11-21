@@ -20,5 +20,5 @@ PHONEKEY提供離線操作，您可使用**裝置密碼**在每位使用者的�
 
 在首頁點選左上角的選單 -&gt;點選登入 -&gt;點選註冊，按照步驟輸入資料後，再到註冊信箱點選啟用連結。
 
-![](../.gitbook/assets/screenshot_2018-12-21-13-18-00-462_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2018-12-21-13-17-49-005_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2018-12-21-13-17-49-005_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2018-12-21-13-18-00-462_com.userstar.phonekey.png)
 
