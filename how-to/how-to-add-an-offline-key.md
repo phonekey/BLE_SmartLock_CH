@@ -32,7 +32,7 @@
 
 鑰匙屬性預設為**一般使用者**，可調整為**管理者**。
 
-![](../.gitbook/assets/screenshot_2018-12-20-17-23-51-007_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2018-12-20-17-23-56-408_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2018-12-20-17-23-51-007_com.userstar.phonekey.png) ![](../.gitbook/assets/screenshot_2020-03-10-16-38-45-383_com.userstar.phonekey.png)
 
 ## 6. 設定使用者名稱與裝置名稱 <a id="set-user-name-and-device-name"></a>
 
