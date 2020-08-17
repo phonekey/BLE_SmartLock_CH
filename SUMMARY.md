@@ -23,4 +23,5 @@
 * [專用功能](special-function/README.md)
   * [藍牙車庫主機](special-function/bluetooth-garage-opener.md)
   * [藍牙門鎖](special-function/bluetooth-door-lock.md)
+  * [藍牙機車鎖](special-function/bluetooth-motor-lock.md)
 
