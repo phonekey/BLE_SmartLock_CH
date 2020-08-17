@@ -10,7 +10,7 @@
 
 建立離線鑰匙－使用裝置密碼，建立離線鑰匙（管理者、一般使用者）。
 
-![](../.gitbook/assets/screenshot_2020-03-10-16-38-45-383_com.userstar.phonekey.png)
+![](../.gitbook/assets/screenshot_2020-03-10-16-38-45-383_com.userstar.phonekey.png)![](../.gitbook/assets/screenshot_2018-12-20-17-23-51-007_com.userstar.phonekey.png)
 
 完成建立離線鑰匙後，從裝置列表選取該鎖具項目進入鎖具頁面，緣色圓圈為開鎖按鈕、機車小圖示為尋車按鈕。
 
